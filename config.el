@@ -76,3 +76,4 @@
 ;; they are implemented.
 
 (add-to-list 'initial-frame-alist '(fullscreen . maximized))
+(setq haskell-interactive-popup-errors nil)
